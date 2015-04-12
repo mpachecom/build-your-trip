@@ -1,0 +1,7 @@
+build_your_trip:
+    resource: "@BuildYourTripBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

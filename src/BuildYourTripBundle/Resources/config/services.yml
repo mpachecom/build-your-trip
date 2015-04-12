@@ -1,0 +1,4 @@
+services:
+#    build_your_trip.example:
+#        class: BuildYourTripBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
